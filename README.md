@@ -111,8 +111,8 @@ The main objective of this project is to develop an easy-to-use online jewellery
 - Enhanced security and performance
 
 ## Author
-**Renuka Gajbhar**
+Late Samiksha
 
-GitHub: https://github.com/Renuka-Gajbhar
+GitHub: https://github.com/samiksha0303late
 
-Repository: https://github.com/Renuka-Gajbhar/JewelleryShopManagementSystem
+Repository: https://github.com/samiksha0303late/JewelleryShopManagementSystem
